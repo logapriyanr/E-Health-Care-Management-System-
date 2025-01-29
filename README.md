@@ -5,6 +5,9 @@ The E-Health Care Management System is a comprehensive platform aimed at enhanci
 
 The system is designed to streamline hospital workflows, improve service delivery, and ensure secure access to sensitive medical information.
 
+
+##Table of Content
+
 Patient Management: Manage patient records, including personal details, medical history, and treatment plans.
 Appointment Scheduling: Allows patients to book and manage appointments with healthcare providers.
 Medical History Management: Securely store and retrieve patient medical histories and prescriptions.
