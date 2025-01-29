@@ -1,7 +1,6 @@
 # Project Name
 E-Health Care Management System
 
-##Table of Contents
 The E-Health Care Management System is a comprehensive platform aimed at enhancing the management and operation of healthcare services. It enables healthcare professionals to efficiently handle patient information, medical histories, appointments, and billing, all while providing patients with easy access to their health data.
 
 The system is designed to streamline hospital workflows, improve service delivery, and ensure secure access to sensitive medical information.
@@ -19,7 +18,7 @@ Backend: [Insert backend technology e.g., Node.js, Django, etc.]
 Database: [Insert database technology e.g., MySQL, MongoDB, etc.]
 Authentication: [Insert authentication method e.g., JWT, OAuth, etc.]
 
-###Installation
+Installation
 To get the project up and running locally, follow these steps:
 
 Make sure you have the following installed on your local machine:
@@ -30,15 +29,11 @@ Any other dependencies required for your project (e.g., npm packages)
 Steps:
 1.Clone the repository to your local machine:
 
-bash
-Copy
 git clone https://github.com/yourusername/e-healthcare-management-system.git
 cd e-healthcare-management-system
 
 2.Install the required dependencies:
 
-bash
-Copy
 npm install   # For Node.js-based projects, or use the appropriate install command
 
 3.Set up the database:
@@ -53,14 +48,10 @@ Update any necessary database connection details and environment-specific settin
 
 5.Start the application:
 
-bash
-Copy
 npm start   # Or your respective start command
 
 6.Open the application in your browser:
 
-bash
-Copy
 http://localhost:3000   # or the port your app is running on
 
 Usage
