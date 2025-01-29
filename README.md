@@ -60,4 +60,4 @@ Doctors can update patient records, manage appointments, and access medical hist
 Patients can view their medical records, book appointments, and check billing information.
 
 Contact
-If you have any questions or feedback, feel free to reach out to [logapriyan] at [priyan11405.com].
+If you have any questions or feedback, feel free to reach out to [logapriyan] at [priyan11405@gmail.com].
