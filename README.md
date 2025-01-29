@@ -26,6 +26,8 @@ Make sure you have the following installed on your local machine:
 Node.js (or your backend framework)
 MySQL or your preferred database system
 Any other dependencies required for your project (e.g., npm packages)
+
+
 Steps:
 1.Clone the repository to your local machine:
 
