@@ -32,6 +32,7 @@ Steps:
 1.Clone the repository to your local machine:
 
 git clone https://github.com/yourusername/e-healthcare-management-system.git
+
 cd e-healthcare-management-system
 
 2.Install the required dependencies:
